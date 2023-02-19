@@ -1,0 +1,3 @@
+Esse arquivo também foi adicionado na branch feature1.
+
+Mais uma alteração na branch feature1.
